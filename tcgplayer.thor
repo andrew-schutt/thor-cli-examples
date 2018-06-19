@@ -35,9 +35,9 @@ class Card < Thor
                         required: false,
                         aliases: '-i'
   method_option :price, desc: 'display price',
-                       type: :boolean,
-                       required: false,
-                       aliases: '-p'
+                        type: :boolean,
+                        required: false,
+                        aliases: '-p'
   method_option :foreign_lang, desc: 'display available foreign language cards for sale',
                                type: :boolean,
                                required: false,
