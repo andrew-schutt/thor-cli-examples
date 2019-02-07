@@ -13,7 +13,7 @@ class Card < Thor
      To search for a specific edition use the `--edition=[EDITION NAME] [-e]` option
      passing in the edition you are searching for.
 
-     To display the card image url along with results use the `--image [-i]` flas.
+     To display the card image url along with results use the `--image [-i]` flags.
 
      To display available card seached price use the `--price [-p]` flag.
 
